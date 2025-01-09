@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{277:function(e,n,t){"use strict";t.r(n);var l=t(1).a.extend({name:"IndexPage"}),o=t(61),component=Object(o.a)(l,(function(){var e=this,n=e._self._c;e._self._setupProxy;return n("p",[e._v("Second Test")])}),[],!1,null,null,null);n.default=component.exports}}]);

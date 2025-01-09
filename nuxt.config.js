@@ -19,6 +19,14 @@ export default {
     ]
   },
 
+  router: {
+    base: "/gab-test/",
+  },
+
+  generate: {
+    dir: 'docs'
+  },
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],
